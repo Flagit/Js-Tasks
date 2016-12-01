@@ -18,3 +18,5 @@ function sum () {
         }
     }  
 }
+ var s = sum(3 , 3 ,3)
+console.log(s(2)(4)(6))
